@@ -1,0 +1,7 @@
+= Serverless functions with Micronaut
+
+This is the source code of the demo done at
+https://dvbe18.confinabox.com/talk/RYF-0932/Server-less_functions_with_Micronaut[Devoxx 2018].
+
+In order to run it, you need to define the property `slack.token` in `src/main/resources/application.yml`, or
+alternatively, set it in the `SLACK_TOKEN` environment variable.
