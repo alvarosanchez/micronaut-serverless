@@ -1,0 +1,5 @@
+profile: function-aws
+defaultPackage: slack.message
+---
+testFramework: junit
+sourceLanguage: java

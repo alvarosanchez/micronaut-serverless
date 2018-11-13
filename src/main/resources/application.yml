@@ -1,0 +1,5 @@
+micronaut:
+    function:
+        name: slack-message
+slack:
+    url: https://slack.com/api/
