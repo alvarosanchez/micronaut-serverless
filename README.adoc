@@ -2,7 +2,7 @@
 
 This is the source code of the demo done at
 https://dvbe18.confinabox.com/talk/RYF-0932/Server-less_functions_with_Micronaut[Devoxx 2018]. Slides are
-link:blob/master/micronaut-serverless-devoxx-be-2018.pdf[published here].
+https://www.slideshare.net/alvarosanchezmariscal/serverless-functions-with-micronaut[published here].
 
 It consists of a simple function that sends messages to Slack. It can be run on AWS Lambda.
 
