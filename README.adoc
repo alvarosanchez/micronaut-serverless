@@ -1,7 +1,10 @@
 = Serverless functions with Micronaut
 
 This is the source code of the demo done at
-https://dvbe18.confinabox.com/talk/RYF-0932/Server-less_functions_with_Micronaut[Devoxx 2018].
+https://dvbe18.confinabox.com/talk/RYF-0932/Server-less_functions_with_Micronaut[Devoxx 2018]. Slides are
+link:blob/master/micronaut-serverless-devoxx-be-2018.pdf[published here].
 
-In order to run it, you need to define the property `slack.token` in `src/main/resources/application.yml`, or
-alternatively, set it in the `SLACK_TOKEN` environment variable.
+It consists of a simple function that sends messages to Slack. It can be run on AWS Lambda.
+
+In order to run it (either local or remotely), you need to define the property `slack.token` in
+`src/main/resources/application.yml`, or alternatively, set it in the `SLACK_TOKEN` environment variable.
